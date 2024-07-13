@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Yifeng Gong. I am a Ph.D. candidate at Case Western Reserve University since 2020. My research focuses on underwater legged robots for object retrieval, demonstrating success in searching and grabbing ordnance in shallow water. The application of the robot has been validated in real terrains, which can be used to enhance environmental safety in coastal areas. Over four years, I have developed a variety of robotic programs, showcasing expertise in mechanical design, robot simulation, and robotic control, resulting in three peer-reviewed journal papers. 
+In addition, I have strong leadership. Led projects with many undergraduate volunteers working on haptics, kinematics, and dynamic simulation. I enjoy working on challenging problems and collaborating with a diverse group of researchers. 
+I am currently seeking the next chapter of my career in robotics and hardware design!
 
 A data-driven personal website
 ======
