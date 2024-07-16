@@ -14,6 +14,8 @@ I am currently seeking the next chapter of my career in robotics and hardware de
 Work Experience
 ======
 1 Mechanical Engineering and Software Development Intern at Crabline Robotics, Inc. Develop a waterproof robotic leg of a deep water hexapod robot using the SolidWorks model. Build a 3D robotic simulation in MuJoCo. Design the grasping and climbing gait to climb on a pipe while grasping it. 
+
+
 2. Research & Development intern at Yarbo, Inc. Developed a simulation of a sensor fusion and navigation system with IMU and encoder to estimate the position of a robot in real time. Built the simulation of the differential drive vehicle model on MATLAB. Designed a motion model and observation model for the Extended Kalman Filter algorithm. Conducted experiments to evaluate the algorithm's performance in predicting the robot's path. Analyzed results showing the convergence of estimated robot path over time, with consideration of algorithm optimality.
 
 
